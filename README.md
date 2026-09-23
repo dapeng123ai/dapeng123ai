@@ -1,16 +1,34 @@
-## Hi there 👋
+# 你好，我是大鹏 👋
 
-<!--
-**dapeng123ai/dapeng123ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我专注于跨境电商与 Amazon 运营，目前正在探索如何将 AI 真正融入市场研究、产品规划、Listing、广告、SEO、内容生产和经营分析。
 
-Here are some ideas to get you started:
+## 我在做什么
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 用数据驱动跨境电商决策
+- 将成熟的运营流程沉淀为可复盘、可复用的方法
+- 用 AI 减少重复工作，提高团队的研究、内容和分析效率
+- 构建可持续迭代的 AI 跨境电商运营体系
+
+## 关注方向
+
+- Amazon 市场研究与产品规划
+- Listing、广告、Review 与 SEO
+- 独立站与内容营销
+- 经营分析、团队管理与自动化
+- AI Agent、Skill 与电商工作流
+
+## 正在构建
+
+- **公众号文章优化工作流**：从内容诊断、事实核查、中文润色到排版和发布检查
+- **AI 跨境运营方法库**：沉淀可复用的流程、模板和评估标准
+
+## 工作原则
+
+1. 先理解业务和使用场景，再选择工具。
+2. 区分事实、推断和假设，不用虚构数据支撑结论。
+3. 优先考虑用户价值、利润、现金流和投入产出比。
+4. 把一次性经验变成可复盘、可自动化的长期资产。
+
+---
+
+欢迎通过 GitHub 关注我的后续项目。
